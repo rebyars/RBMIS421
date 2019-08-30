@@ -1,0 +1,38 @@
+<html>
+
+<head>
+    <title>Riley HTML Practice</title>
+</head>
+
+<style>
+    p{
+        color: navy;
+        font-size: 14px;
+    }
+    
+    h1{
+        color: royalblue;
+        font-size: 36px;
+        font-weight: bold;
+    }
+    
+    h2{
+        color: cornflowerblue;
+        font-size: 30px;
+    }
+    
+    .bold{
+        font-weight: bolder;
+        text-emphasis-color: black;
+    }
+    
+    
+</style>
+
+<body>
+    <h1 class="bold">HTML Practice</h1>
+    <h2>HTML is used for web design</h2>
+    <p>To edit and create text, you have to code within <span class="bold">HTML</span>. To style text, you use HTML</p>
+</body>
+
+</html>
